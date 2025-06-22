@@ -1,0 +1,13 @@
+imageio
+keras
+keras-lr-finder
+keras-vis
+matplotlib
+mlxtend
+numpy
+pandas
+pillow
+scikit-learn
+scipy
+tensorboard
+vis
