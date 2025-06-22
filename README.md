@@ -18,3 +18,6 @@
 
         `pip3 -r requirements.txt -y`
 
+## Fashion-MNIST
+Download The DATASET : 
+[Fashion-MNIST Dataset](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_0127785480690483207452_shared/web-hosted/assets/fashionmnisttrain.csv)
