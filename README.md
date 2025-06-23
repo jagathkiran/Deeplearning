@@ -10,7 +10,7 @@
 ### Setup Virtual Environment
 * **Using Python**
     ```
-    python3 -m venv deepl-env
+    python -m venv deepl-env
     ```
 * **Using Conda**
     ```
@@ -23,7 +23,7 @@
     ```
 ### Install Necessary Packages
 ```
-pip3 -r requirements.txt -y
+pip install -r requirements.txt -y
 ```
 
 ## 1. Fashion-MNIST
@@ -32,3 +32,9 @@ pip3 -r requirements.txt -y
 * **Paste in** `./Fashion-MNIST/`
 
 ## 2. Vehicle-Budget
+
+## 3. Identifying Age Group of Actors
+* **Indian Movie Face Database (IMFDB)**
+* **Training Dataset :** [agedetectiontrain.zip](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012776431940165632236_shared/web-hosted/assets/agedetectiontrain.zip)
+* **Testing Dataset :** [agedetectiontest.zip](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012776431940165632236_shared/web-hosted/assets/agedetectiontest.zip)
+* Extract Both Datasets to `./Age-Group-Detection/'
