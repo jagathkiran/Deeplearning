@@ -25,14 +25,14 @@
 ```
 pip install -r requirements.txt -y
 ```
-
-## 1. Fashion-MNIST
+## Multi-Layer Perceptrons
+### 1. Fashion-MNIST
 * **Download The DATASET :** [Fashion-MNIST Dataset](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_0127785480690483207452_shared/web-hosted/assets/fashionmnisttrain.csv)
 * **Paste in** `./Fashion-MNIST/`
 
-## 2. Vehicle-Budget
+### 2. Vehicle-Budget
 
-## 3. Identifying Age Group of Actors
+### 3. Identifying Age Group of Actors
 * **Indian Movie Face Database (IMFDB)**
 * **Training Dataset :** [agedetectiontrain.zip](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012776431940165632236_shared/web-hosted/assets/agedetectiontrain.zip)
 * **Testing Dataset :** [agedetectiontest.zip](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012776431940165632236_shared/web-hosted/assets/agedetectiontest.zip)
@@ -69,3 +69,22 @@ pip install -r requirements.txt -y
     ```
     tensorboard --logdir=early_stop/ --host localhost --port 8088
     ```
+
+### 4. Predicting the House price
+* **Training Dataset :** [train.csv](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012776490282680320258_shared/web-hosted/assets/train.csv)
+* Extract the dataset to `./Predicting-House-Price/`
+
+### 5. Cats or Dogs
+* **Dataset :** [dogscatsimages.zip](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012776492416663552259_shared/web-hosted/assets/dogscatsimages.zip)
+* Extract the dataset to `./Cats-or-Dogs/`
+
+### 6. Doctor Consultation Fee Prediction
+* **Dataset :** [doctorfeeprediction.zip](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012776492416663552259_shared/web-hosted/assets/doctorfeesprediction.zip)
+* Extract the dataset to `./Doctor-Fee-Prediction/`
+
+## Convolutional Neural Networks
+### 1. Image Recognition using CNN
+* **Dataset :** [cifar10](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10.zip)
+* **Labels :** [cifar10labels.csv](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10Labels.csv)
+* Extract the **dataset** and Copy the **labels** to `./Image-Recognition-using-CNN/`
+

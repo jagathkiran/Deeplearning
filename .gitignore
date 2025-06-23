@@ -1,15 +1,24 @@
 deepl-env
 # Fashion-MNIST
-fashionmnisttrain.csv
-# Age-Group-Detection
-agedetectiontest
-agedetectiontrain
-out.csv
-optims
-activation
-learning_rate
-weights
-biases
-dropout
-reg
-early_stop
+MLP/Fashion-MNIST/fashionmnisttrain.csv
+# Age Group Detection
+MLP/Age-Group-Detection/agedetectiontest
+MLP/Age-Group-Detection/agedetectiontrain
+MLP/Age-Group-Detection/out.csv
+MLP/Age-Group-Detection/optims
+MLP/Age-Group-Detection/activation
+MLP/Age-Group-Detection/learning_rate
+MLP/Age-Group-Detection/weights
+MLP/Age-Group-Detection/biases
+MLP/Age-Group-Detection/dropout
+MLP/Age-Group-Detection/reg
+MLP/Age-Group-Detection/early_stop
+# Predicting house price 
+MLP/Predicting-House-Price/train.csv
+# Cats or dogs
+MLP/Cats-or-Dogs/dataset
+# Doctor fee prediction
+MLP/Doctor-Fee-Prediction/doctorfeesprediction
+# Image Recognition using CNN
+CNN/Image-Recognition-using-CNN/cifar10
+CNN/Image-Recognition-using-CNN/cifar10Labels.csv
