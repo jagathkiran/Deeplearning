@@ -12,3 +12,4 @@ scipy
 tensorboard
 vis
 tensorflow
+seaborn

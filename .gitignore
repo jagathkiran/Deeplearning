@@ -7,3 +7,9 @@ agedetectiontrain
 out.csv
 optims
 activation
+learning_rate
+weights
+biases
+dropout
+reg
+early_stop
