@@ -87,6 +87,7 @@ pip install -r requirements.txt -y
 * **Dataset :** [cifar10](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10.zip)
 * **Labels :** [cifar10labels.csv](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10Labels.csv)
 * Extract the **dataset** and Copy the **labels** to `./CNN/Image-Recognition-using-CNN/`
+### 2. AlexNet Demonstration
 
 ## Reccurrent Neural Networks
 ### 1. Forecasting Stocks
