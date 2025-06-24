@@ -22,3 +22,6 @@ MLP/Doctor-Fee-Prediction/doctorfeesprediction
 # Image Recognition using CNN
 CNN/Image-Recognition-using-CNN/cifar10
 CNN/Image-Recognition-using-CNN/cifar10Labels.csv
+# Forcasting Stocks using RNN
+RNN/Forecasting-Stocks/INFY20002008.csv
+# Text Generator

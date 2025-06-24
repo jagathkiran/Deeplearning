@@ -87,3 +87,20 @@ pip install -r requirements.txt -y
 * **Dataset :** [cifar10](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10.zip)
 * **Labels :** [cifar10labels.csv](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10Labels.csv)
 * Extract the **dataset** and Copy the **labels** to `./CNN/Image-Recognition-using-CNN/`
+
+## Reccurrent Neural Networks
+### 1. Forecasting Stocks
+* **Dataset :** [Infosys Equities data set](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_01279071059759104047_shared/web-hosted/assets/INFY20002008.csv)
+* Extract the **Dataset** to `./RNN/Forcasting-Stocks/`
+
+### 2. Predicting Next Word
+* **Dataset :** [SherlockHolmes.txt](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_0127914004370472964_shared/web-hosted/assets/SherlockHolmes.txt)
+* Extract the **Dataset** to `./RNN/Predicting-Next-Word/`
+
+### 3. Time Series Forecast
+* **Dataset :** [GOOGHistoricalNOCP6m.csv](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_01279144948849868822_shared/web-hosted/assets/GOOGHistoricalNOCP6m.csv)
+* Extract the **Dataset** to `./RNN/Time-Series-Forecast/`
+
+### 4. Next Word Prediction
+* **Dataset :** [CactusForestDrive.txt](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_01279144948849868822_shared/web-hosted/assets/CactusForestDrive.txt)
+
