@@ -115,5 +115,9 @@ pip install -r requirements.txt -y
 * **Dataset :** [cifar10](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10.zip)
 * **Labels :** [cifar10labels.csv](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10Labels.csv)
 * Extract the **dataset** and Copy the **labels** to `./AutoEncoders/Data-Compression/`
+### 3. Applications of AutoEncoders
+1. #### Reconstruction of sequence using Autoencoders
+2. #### Prediction of the sequence of number using Autoencoders
+3. #### Outlier/Anomaly detection using Autoencoders
 
 ## Advanced loss function and Parameter tuning
