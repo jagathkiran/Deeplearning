@@ -33,3 +33,5 @@ AutoEncoders/Image-Denoising/cifar10Labels.csv
 # Data Compression
 AutoEncoders/Data-Compression/cifar10
 AutoEncoders/Data-Compression/cifar10Labels.csv
+# Predicitng income
+Wide-and-Deep/Predicting-Income/census+income

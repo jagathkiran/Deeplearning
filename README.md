@@ -107,7 +107,7 @@ pip install -r requirements.txt -y
 * Extract the **Dataset** to `./RNN/Next-Word-Prediction(2)/`
 
 ## AutoEncoders
-### 1.Image Denoisiation
+### 1. Image Denoisiation
 * **Dataset :** [cifar10](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10.zip)
 * **Labels :** [cifar10labels.csv](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10Labels.csv)
 * Extract the **dataset** and Copy the **labels** to `./AutoEncoders/Image-Denoising/`
@@ -121,3 +121,12 @@ pip install -r requirements.txt -y
 3. #### Outlier/Anomaly detection using Autoencoders
 
 ## Advanced loss function and Parameter tuning
+
+## Generative Adversarial Networks
+1. ### Image Augmentation using MNIST data set
+2. ### New image generation for CIFAR data Set
+
+## Wide and Deep Models
+### 1. Predicting the income of a US population
+* **Dataset :** [census+income](https://archive.ics.uci.edu/static/public/20/census+income.zip)
+* Extract the dataset in `./Wide-and-Deep/Predicting-Income/`
