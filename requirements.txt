@@ -13,3 +13,5 @@ tensorboard
 vis
 tensorflow
 seaborn
+scikit-image
+tl-keras-vis
