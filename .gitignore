@@ -25,3 +25,11 @@ CNN/Image-Recognition-using-CNN/cifar10Labels.csv
 # Forcasting Stocks using RNN
 RNN/Forecasting-Stocks/INFY20002008.csv
 # Text Generator
+# Time Series Forecasting
+# Next Word Prediction
+# Image Denoising
+AutoEncoders/Image-Denoising/cifar10
+AutoEncoders/Image-Denoising/cifar10Labels.csv
+# Data Compression
+AutoEncoders/Data-Compression/cifar10
+AutoEncoders/Data-Compression/cifar10Labels.csv

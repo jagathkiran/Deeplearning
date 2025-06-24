@@ -103,4 +103,16 @@ pip install -r requirements.txt -y
 
 ### 4. Next Word Prediction
 * **Dataset :** [CactusForestDrive.txt](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_01279144948849868822_shared/web-hosted/assets/CactusForestDrive.txt)
+* Extract the **Dataset** to `./RNN/Next-Word-Prediction(2)/`
 
+## AutoEncoders
+### 1.Image Denoisiation
+* **Dataset :** [cifar10](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10.zip)
+* **Labels :** [cifar10labels.csv](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10Labels.csv)
+* Extract the **dataset** and Copy the **labels** to `./AutoEncoders/Image-Denoising/`
+### 2. Data Compression
+* **Dataset :** [cifar10](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10.zip)
+* **Labels :** [cifar10labels.csv](https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_012782825259556864334_shared/web-hosted/assets/cifar10Labels.csv)
+* Extract the **dataset** and Copy the **labels** to `./AutoEncoders/Data-Compression/`
+
+## Advanced loss function and Parameter tuning
